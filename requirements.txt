@@ -1,0 +1,15 @@
+langchain
+langgraph
+ipykernel
+langchain-community
+python-dotenv
+streamlit
+langchain-openai
+langchain-groq
+duckduckgo-search
+tavily-python
+langchainhub
+tiktoken
+beautifulsoup4
+langchain-text-splitters
+faiss-cpu
